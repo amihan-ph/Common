@@ -1,0 +1,1 @@
+{{if .HasDB}}-- CREATE YOUR MIGRATIONS IN THIS FOLDER{{end}}

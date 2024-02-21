@@ -1,0 +1,3 @@
+# {{ .ProjectSlug }}
+
+{{ .ProjectName }}
